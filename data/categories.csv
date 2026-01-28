@@ -1,0 +1,52 @@
+category_id,Category Name,department_id
+1, Sporting Goods      ,1
+2, Cleats              ,2
+3, Shop By Sport       ,3
+4, Women's Apparel     ,3
+5, Electronics         ,4
+6, Boxing & MMA        ,4
+7, Cardio Equipment    ,4
+8, Trade-In            ,5
+9, Electronics         ,5
+10, Kids' Golf Clubs    ,5
+11, Hunting & Shooting  ,6
+12, Baseball & Softball ,1
+13, Men's Footwear      ,2
+14, Camping & Hiking    ,6
+15, Consumer Electronics,7
+16, Cameras             ,7
+17, Computers           ,7
+18, Basketball          ,1
+19, Soccer              ,1
+20, Girls' Apparel      ,3
+21, Accessories         ,5
+22, Women's Clothing    ,2
+23, Crafts              ,2
+24, Men's Clothing      ,2
+25, Tennis & Racquet    ,1
+26, Fitness Accessories ,4
+27, As Seen on  TV!     ,4
+28, Golf Balls          ,5
+29, Strength Training   ,4
+30, Children's Clothing ,2
+31, Lacrosse            ,1
+32, Baby                ,2
+33, Fishing             ,6
+34, Books               ,8
+35, DVDs                ,9
+36, CDs                 ,9
+37, Garden              ,5
+38, Hockey              ,1
+39, Pet Supplies        ,10
+40, Health and Beauty   ,11
+41, Music               ,9
+42, Video Games         ,9
+43, Golf Gloves         ,5
+44, Golf Bags & Carts   ,5
+45, Golf Shoes          ,5
+46, Golf Apparel        ,5
+47, Women's Golf Clubs  ,5
+48, Men's Golf Clubs    ,5
+49, Toys                ,6
+50, Water Sports        ,6
+51, Indoor/Outdoor Games,6
